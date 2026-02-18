@@ -1,0 +1,8 @@
+{
+  "name": "Chi Le Me (痴了么) - Cognitive Health Suite",
+  "description": "A comprehensive multi-modal cognitive health assessment and monitoring application featuring specialized modes for seniors and youth, utilizing neuro-diagnostic modules and real-time biomarker tracking.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
